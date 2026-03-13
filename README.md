@@ -60,7 +60,7 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 ### 🧵 [Threadline](https://github.com/Valentin2333/threadline)
 > A full-stack community forum built with React - featuring authentication, threaded discussions, and a modern light/dark UI.
 
-`React` `JavaScript` `Node.js` `Bootstrap`
+`React` `Vite` `Bootstrap`
 
 ---
 
@@ -68,14 +68,14 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 A React app that lets users search for any city and view current weather conditions, a 5-day forecast, an interactive map preview, a favorites list, and a °C/°F units toggle.
 
-React 18 Vite OpenWeather API OpenStreetMap CSS Modules localStorage
+`React` `Vite` `OpenWeather API` `OpenStreetMap` `CSS` 
 
 ---
 
 ### ⚡ [PokéBattle](https://github.com/Valentin2333/pokebattle)
 > A browser-based Pokémon battle app powered by the PokéAPI - choose your fighter and battle in real time.
 
-`React` `PokéAPI` `JavaScript` 
+`React`  `Vite` `PokéAPI` `CSS` 
 
 ---
 
