@@ -4,3 +4,6 @@
 - 💞️ I am looking to collaborate with Front-End React developers.
 - 📫 How to reach me: v.tenev10@gmail.com
 
+🛠️ Technical Proficiency:
+Proficient in JavaScript, HTML, CSS and React
+javascript logo  react logo  html5 logo  css logo  materialui logo  bootstrap logo
