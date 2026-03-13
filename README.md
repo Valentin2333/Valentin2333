@@ -60,14 +60,14 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 ### 🧵 [Threadline Forum](https://github.com/Valentin2333/Threadline-Forum)
 > A full-featured Reddit-style community forum. Users can create `t/` communities, post, comment, vote, upload avatars, and receive real-time notifications. Includes an admin dashboard for managing users, posts, and content reports.
 
-`React 19` `React Router 7` `Supabase` `PostgreSQL` `Realtime` `Row Level Security` `React Bootstrap` `Vite` `Vitest`
+`React 19` `React Router 7` `Supabase` `Realtime` `Row Level Security` `React Bootstrap` `Vite` `Vitest`
 
 ---
 
 ### 🌤️ [Weather App](https://github.com/Valentin2333/Weather-App-React)
 > A React app that lets users search for any city and view current weather conditions, a 5-day forecast, an interactive map preview, a favorites list, and a °C/°F units toggle.
 
-`React 18` `Vite` `OpenWeather API` `OpenStreetMap` `CSS Modules` `localStorage`
+`React 18` `Vite` `OpenWeather API` `OpenStreetMap` `CSS Modules`
 
 ---
 
