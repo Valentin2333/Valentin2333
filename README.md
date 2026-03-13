@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Valentin Tenev
 
-### Front-End Developer · React JS · Python · TypeScript
+### Front-End Developer · React JS · TypeScript · Python
 
 [![Gmail](https://img.shields.io/badge/v.tenev10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.tenev10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentin-tenev)
