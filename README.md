@@ -5,7 +5,7 @@
 ### Front-End Developer · React JS · Python · TypeScript
 
 [![Gmail](https://img.shields.io/badge/v.tenev10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.tenev10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentin-tenev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -16,8 +16,7 @@
 
 I'm a passionate front-end developer focused on building clean, responsive, and user-friendly web applications. I enjoy working at the intersection of design and code, turning ideas into polished digital experiences.
 
-- 🔭 Currently deepening my knowledge in **TypeScript**
-- 💬 Love talking about **React ecosystems, component architecture, and Python web frameworks**
+- 💬 Love talking about **React ecosystems, component architecture, and professional UX**
 - 🤝 Open to collaborating on **Front-End React projects**
 - ⚡ Fun fact: I believe great UX is invisible — you only notice bad UX
 
@@ -34,14 +33,13 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 #### UI Libraries & Tooling
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Back-End & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -49,9 +47,9 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 <div align="center">
 
-![Valentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Valentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valentin2333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin2333&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -59,17 +57,17 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ## 🚀 Featured Projects
 
-### 🧵 [Threadline](https://github.com/YOUR_GITHUB_USERNAME/threadline)
-> A full-stack community forum built with React — featuring authentication, threaded discussions, and a modern dark UI.
+### 🧵 [Threadline](https://github.com/Valentin2333/threadline)
+> A full-stack community forum built with React - featuring authentication, threaded discussions, and a modern light/dark UI.
 
-`React` `Node.js` `CSS Modules` `REST API`
+`React` `JavaScript` `Node.js` `Bootstrap`
 
 ---
 
-### ⚡ [PokéBattle](https://github.com/YOUR_GITHUB_USERNAME/pokebattle)
-> A browser-based Pokémon battle app powered by the PokéAPI — choose your fighter and battle in real time.
+### ⚡ [PokéBattle](https://github.com/Valentin2333/pokebattle)
+> A browser-based Pokémon battle app powered by the PokéAPI - choose your fighter and battle in real time.
 
-`React` `PokéAPI` `JavaScript` `MUI`
+`React` `PokéAPI` `JavaScript` 
 
 ---
 
