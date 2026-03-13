@@ -57,28 +57,26 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ## 🚀 Featured Projects
 
-### 🧵 [Threadline](https://github.com/Valentin2333/threadline)
-> A full-stack community forum built with React - featuring authentication, threaded discussions, and a modern light/dark UI.
+### 🧵 [Threadline Forum](https://github.com/Valentin2333/Threadline-Forum)
+> A full-featured Reddit-style community forum. Users can create `t/` communities, post, comment, vote, upload avatars, and receive real-time notifications. Includes an admin dashboard for managing users, posts, and content reports.
 
-`React` `Vite` `Bootstrap`
-
----
-
-## 🌤️ [Weather App](https://github.com/Valentin2333/Weather-App-React)
-
-A React app that lets users search for any city and view current weather conditions, a 5-day forecast, an interactive map preview, a favorites list, and a °C/°F units toggle.
-
-`React` `Vite` `OpenWeather API` `OpenStreetMap` `CSS` 
+`React 19` `React Router 7` `Supabase` `PostgreSQL` `Realtime` `Row Level Security` `React Bootstrap` `Vite` `Vitest`
 
 ---
 
-### ⚡ [PokéBattle](https://github.com/Valentin2333/pokebattle)
-> A browser-based Pokémon battle app powered by the PokéAPI - choose your fighter and battle in real time.
+### 🌤️ [Weather App](https://github.com/Valentin2333/Weather-App-React)
+> A React app that lets users search for any city and view current weather conditions, a 5-day forecast, an interactive map preview, a favorites list, and a °C/°F units toggle.
 
-`React`  `Vite` `PokéAPI` `CSS` 
+`React 18` `Vite` `OpenWeather API` `OpenStreetMap` `CSS Modules` `localStorage`
 
 ---
 
+### ⚡ [PokéBattle](https://github.com/Valentin2333/PokeBattle)
+> A single-page type-effectiveness arena that loads random Pokémon from the PokéAPI, determines battle outcomes based on type matchups, and tracks scores across sessions. Built with performance in mind using `useMemo`, `useCallback`, and `React.memo`.
+
+`React 18` `Vite` `PokéAPI` `Vitest` `React Testing Library` `JavaScript`
+
+---
 ## 📫 Let's Connect
 
 I'm always open to interesting projects and collaboration opportunities.
