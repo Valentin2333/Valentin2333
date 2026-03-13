@@ -64,6 +64,14 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ---
 
+## 🌤️ [Weather App](https://github.com/Valentin2333/Weather-App-React)
+
+A React app that lets users search for any city and view current weather conditions, a 5-day forecast, an interactive map preview, a favorites list, and a °C/°F units toggle.
+
+React 18 Vite OpenWeather API OpenStreetMap CSS Modules localStorage
+
+---
+
 ### ⚡ [PokéBattle](https://github.com/Valentin2333/pokebattle)
 > A browser-based Pokémon battle app powered by the PokéAPI - choose your fighter and battle in real time.
 
